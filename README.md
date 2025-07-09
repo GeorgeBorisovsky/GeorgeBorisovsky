@@ -2,7 +2,7 @@
 - 👀 I’m interested in i'm learning  frontend and java backend development.
 - 🌱 I am currently studying at the java developer course at Yandex and I really hope that I will be able to complete this course to the end.
 - 💞️ I’m looking to collaborate on:
-  * java application development (разработка приложений на java);
+  * 
   * application testing (тестирование приложений);
   * web application (development разработка веб приложений);
   * mobile communication services (сервисы мобильной связи);
